@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>RAA_Int_Mod3_Dimensions_Challenge - Command 1</Text>
+    <Description>Some description for RAA_Int_Mod3_Dimensions_Challenge</Description>
+    <Assembly>RAA_Int_Mod3_Dimensions_Challenge.dll</Assembly>
+    <FullClassName>RAA_Int_Mod3_Dimensions_Challenge.Command1</FullClassName>
+    <ClientId>36ca9fa9-9108-4536-ac7b-445a20e3bf60</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>RAA_Int_Mod3_Dimensions_Challenge - Command 2</Text>
+    <Description>Some description for RAA_Int_Mod3_Dimensions_Challenge</Description>
+    <Assembly>RAA_Int_Mod3_Dimensions_Challenge.dll</Assembly>
+    <FullClassName>RAA_Int_Mod3_Dimensions_Challenge.Command2</FullClassName>
+    <ClientId>d1a3470c-de02-41bd-af4d-1c730bb994fc</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>RAA_Int_Mod3_Dimensions_Challenge</Name>
+    <Assembly>RAA_Int_Mod3_Dimensions_Challenge.dll</Assembly>
+    <FullClassName>RAA_Int_Mod3_Dimensions_Challenge.App</FullClassName>
+    <ClientId>c9ed943e-e62a-4037-b285-c80fab449bf0</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
